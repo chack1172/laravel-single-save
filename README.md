@@ -1,6 +1,6 @@
 # Laravel Single Save
 
-This package allows you to run a single final save on a model when save function is called different times.
+This package is designed to optimize the model saving process of your Laravel applications. Wrapping the code in a specific method callback performs a single database update at the end of the callback execution. This optimizes the application's performance, especially during complex transactions or scenarios with frequent model updates.
 
 ## Installation
 

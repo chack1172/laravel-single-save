@@ -1,5 +1,6 @@
 {
     "name": "chack1172/laravel-single-save",
+    "description": "Optimize model saving with single save execution",
     "type": "library",
     "license": "MIT",
     "authors": [
