@@ -1,0 +1,21 @@
+{
+    "name": "chack1172/laravel-single-save",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chack1172",
+            "email": "nberardozzi@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/chack1172/laravel-single-save",
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/database": "^8.0|^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chack1172\\SingleSave\\": "src/"
+        }
+    }
+}
